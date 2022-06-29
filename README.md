@@ -1,10 +1,10 @@
 Hi 👋 My name is Kade Williams 
 ==============================
 
-Deployment Engineer
+Database Developer
 -------------------
 
-I have my degree in Information Systems and have been trying to teach myself various frontend technologies such as JavaScript, HTML/CSS, and Node.js.  * 🌍  I'm based in Oklahoma * ✉️  You can contact me at [kadewilliams0@gmail.com](mailto:kadewilliams0@gmail.com) * 🧠  I'm learning JavaScript and Node.js
+I have my degree in Information Systems and have been trying to teach myself various frontend technologies such as JavaScript, HTML/CSS, and Node.js.  * 🌍  I'm based in Oklahoma * ✉️  You can contact me at [kadewilliams0@gmail.com](mailto:kadewilliams0@gmail.com) * 🧠  I'm learning JavaScript and Node.js and am currently working with SQL and C#.
 
 ### Skills
 
