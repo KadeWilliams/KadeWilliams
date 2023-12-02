@@ -1,4 +1,4 @@
-Hi 👋 My name is Kade Williams 
+`Hi 👋 My name is Kade Williams 
 ==============================
 
 Database Developer
@@ -20,12 +20,11 @@ I have my degree in Information Systems and have been trying to teach myself var
 <a href="http://www.github.com/KadeWilliams"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KadeWilliams&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="http://www.github.com/KadeWilliams"><img src="https://activity-graph.herokuapp.com/graph?username=KadeWilliams&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<ol>
-    <li>Personal Portfolio Website:
-        Create a personal portfolio website showcasing your skills, projects, and resume. Use HTML, CSS, and JavaScript to make it interactive and visually appealing.</li>
+1. 
 
-    <li>Task Manager or To-Do List App:
-        Develop a task management application with features like adding tasks, setting due dates, marking tasks as complete, and sorting/filtering tasks. Use a frontend framework like React or Angular.</li>
+<ol>
+    <li>Personal Portfolio Website:Create a personal portfolio website showcasing your skills, projects, and resume. Use HTML, CSS, and JavaScript to make it interactive and visually appealing.</li>
+    <li>Task Manager or To-Do List App: Develop a task management application with features like adding tasks, setting due dates, marking tasks as complete, and sorting/filtering tasks. Use a frontend framework like React or Angular.</li>
 
     <li>Weather App:
         Build a weather application that fetches data from a public API (e.g., OpenWeatherMap) and displays current weather conditions and forecasts. Use asynchronous programming and AJAX calls.</li>
